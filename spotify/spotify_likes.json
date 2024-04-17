@@ -1,0 +1,609 @@
+[
+  { "title": "Pahinta tänään", "albums": ["Valoissa"], "artists": ["Indica"] },
+  {
+    "title": "Cowboys or Indians",
+    "albums": ["The Road, Pt. 1"],
+    "artists": ["UNKLE"]
+  },
+  {
+    "title": "Under A Violet Moon",
+    "albums": ["Under a Violet Moon"],
+    "artists": ["Blackmore's Night"]
+  },
+  {
+    "title": "All My Life",
+    "albums": ["One By One (Expanded Edition)"],
+    "artists": ["Foo Fighters"]
+  },
+  {
+    "title": "Я буду твоим солнцем",
+    "albums": ["Vol. 1"],
+    "artists": ["Мёртвые Осы"]
+  },
+  {
+    "title": "Nuclear",
+    "albums": ["Man On The Rocks"],
+    "artists": ["Mike Oldfield"]
+  },
+  {
+    "title": "It's Getting Boring By The Sea",
+    "albums": ["Box of Secrets"],
+    "artists": ["Blood Red Shoes"]
+  },
+  {
+    "title": "Donut and the Golden Hen",
+    "albums": ["God How I Envy the Deaf"],
+    "artists": ["Caustic Casanova"]
+  },
+  {
+    "title": "Kingslayer (feat. BABYMETAL)",
+    "albums": ["POST HUMAN: SURVIVAL HORROR"],
+    "artists": ["Bring Me The Horizon"]
+  },
+  {
+    "title": "Everyday I Love You Less and Less",
+    "albums": ["Employment"],
+    "artists": ["Kaiser Chiefs"]
+  },
+  {
+    "title": "Sinking Deep",
+    "albums": ["All of Your Light"],
+    "artists": ["Waves Under Water"]
+  },
+  {
+    "title": "The Trick Is to Keep Breathing - 2018 - Remaster",
+    "albums": ["Version 2.0 (20th Anniversary Edition)"],
+    "artists": ["Garbage"]
+  },
+  {
+    "title": "Science Will Save Us",
+    "albums": ["Eleven Miles"],
+    "artists": ["Exxasens"]
+  },
+  {
+    "title": "Ignorance",
+    "albums": ["Brand New Eyes"],
+    "artists": ["Paramore"]
+  },
+  { "title": "Pleasant", "albums": ["Thirst"], "artists": ["SebastiAn"] },
+  {
+    "title": "A Stranger I Remain - Maniac Agenda Mix",
+    "albums": ["METAL GEAR RISING REVENGEANCE Vocal Tracks Selection"],
+    "artists": ["Free Dominguez"]
+  },
+  {
+    "title": "ULTRAnumb",
+    "albums": ["Blue Stahli"],
+    "artists": ["Blue Stahli"]
+  },
+  {
+    "title": "Ikuinen Virta",
+    "albums": ["Ikuinen Virta"],
+    "artists": ["Indica"]
+  },
+  {
+    "title": "Take the Pill",
+    "albums": ["Fight Like a Girl"],
+    "artists": ["Emilie Autumn"]
+  },
+  { "title": "Alps", "albums": ["Alps"], "artists": ["Motorama"] },
+  {
+    "title": "Heat Miser",
+    "albums": ["Protection"],
+    "artists": ["Massive Attack"]
+  },
+  {
+    "title": "Doomsday Rainbows",
+    "albums": ["Motherblood"],
+    "artists": ["Grave Pleasures"]
+  },
+  { "title": "A New Error", "albums": ["Moderat"], "artists": ["Moderat"] },
+  {
+    "title": "Erupt & Matter",
+    "albums": ["These Systems Are Failing"],
+    "artists": ["Moby"]
+  },
+  {
+    "title": "Queen of Drangleic",
+    "albums": ["Dark Souls 2"],
+    "artists": ["Motoi Sakuraba"]
+  },
+  {
+    "title": "SAINT LAURENT MEN'S SPRING SUMMER 21",
+    "albums": ["SAINT LAURENT MEN'S SPRING SUMMER 21"],
+    "artists": ["SebastiAn"]
+  },
+  {
+    "title": "21st Century Crooners",
+    "albums": ["Blow"],
+    "artists": ["Ghinzu"]
+  },
+  {
+    "title": "Bullets",
+    "albums": ["Controlling Crowds (Parts I-III)"],
+    "artists": ["Archive"]
+  },
+  {
+    "title": "Chloroform",
+    "albums": ["Something Between Us - Best Of"],
+    "artists": ["Belasco"]
+  },
+  { "title": "Second Lives", "albums": ["Flashmob"], "artists": ["Vitalic"] },
+  {
+    "title": "Lies Irae",
+    "albums": ["Ultrawired: Pirate Ketaware for the Tlc Generation"],
+    "artists": ["Dope Stars Inc."]
+  },
+  {
+    "title": "Everything Now",
+    "albums": ["Everything Now"],
+    "artists": ["Arcade Fire"]
+  },
+  { "title": "Shout", "albums": ["Donora"], "artists": ["Donora"] },
+  {
+    "title": "Asphalt & Trouble",
+    "albums": ["Radio Protector"],
+    "artists": ["65daysofstatic"]
+  },
+  {
+    "title": "I'm Not Human At All (Copenhagen X Sessions)",
+    "albums": ["I'm Not Human At All (Copenhagen X Sessions)"],
+    "artists": ["Sleep Party People"]
+  },
+  {
+    "title": "Honor for All - End Credits",
+    "albums": ["Dishonored: Original Game Soundtrack"],
+    "artists": ["Daniel Licht"]
+  },
+  {
+    "title": "Shadows",
+    "albums": ["Hardware Chronicles, Vol. 4"],
+    "artists": ["Unknown Error"]
+  },
+  {
+    "title": "Fuck You",
+    "albums": ["It's Not Me, It's You"],
+    "artists": ["Lily Allen"]
+  },
+  {
+    "title": "When We Were Young",
+    "albums": ["Are You Listening?"],
+    "artists": ["Dolores O'Riordan"]
+  },
+  {
+    "title": "Speak to Me",
+    "albums": ["Let This Rope Cross All the Lands"],
+    "artists": ["My Own Private Alaska"]
+  },
+  {
+    "title": "Lifeless",
+    "albums": ["There Be Squabbles Ahead"],
+    "artists": ["Stolen Babies"]
+  },
+  {
+    "title": "Jungle Drum",
+    "albums": ["Me and Armini"],
+    "artists": ["Emilíana Torrini"]
+  },
+  {
+    "title": "Are You Lost in the World Like Me?",
+    "albums": ["These Systems Are Failing"],
+    "artists": ["Moby"]
+  },
+  {
+    "title": "This Mess We're In",
+    "albums": ["Stories From The City, Stories From The Sea"],
+    "artists": ["PJ Harvey"]
+  },
+  {
+    "title": "Lunatic",
+    "albums": ["Build A Tower"],
+    "artists": ["The Slow Readers Club"]
+  },
+  {
+    "title": "Husbands",
+    "albums": ["Silence Yourself"],
+    "artists": ["Savages"]
+  },
+  {
+    "title": "RENDERING THE SOUL",
+    "albums": ["RENDERING THE SOUL"],
+    "artists": ["World's End Girlfriend"]
+  },
+  {
+    "title": "Dance of the Knights",
+    "albums": ["Voodoo Ritual"],
+    "artists": ["Noisuf-X"]
+  },
+  {
+    "title": "Exit Strategy Of A Wrecking Ball",
+    "albums": ["Pandora's Piñata"],
+    "artists": ["Diablo Swing Orchestra"]
+  },
+  {
+    "title": "Architect of the Mind",
+    "albums": ["Trailer Music 2 (Original Soundtrack)"],
+    "artists": ["Kerry Muzzey"]
+  },
+  {
+    "title": "Танец рыцарей",
+    "albums": ["Классика в рок-обработках. Часть вторая"],
+    "artists": ["Sergei Prokofiev"]
+  },
+  { "title": "Fuck U", "albums": ["Noise"], "artists": ["Archive"] },
+  {
+    "title": "Seedy Tricks",
+    "albums": ["BADA BING! BADA BOOM!"],
+    "artists": ["Sylvie Kreusch"]
+  },
+  {
+    "title": "Nero Forte",
+    "albums": ["We Are Not Your Kind"],
+    "artists": ["Slipknot"]
+  },
+  {
+    "title": "Bullug Gegbug Ibgabiug Gixcure Dagabciea Fuic",
+    "albums": ["█ ▓"],
+    "artists": ["Keygen Church"]
+  },
+  {
+    "title": "Voodoo In My Blood",
+    "albums": ["Ritual Spirit"],
+    "artists": ["Massive Attack"]
+  },
+  {
+    "title": "Valentine",
+    "albums": ["Neverworld's End"],
+    "artists": ["Xandria"]
+  },
+  {
+    "title": "Mmm Mmm Mmm Mmm",
+    "albums": ["God Shuffled His Feet"],
+    "artists": ["Crash Test Dummies"]
+  },
+  {
+    "title": "Harrowdown Hill",
+    "albums": ["The Eraser"],
+    "artists": ["Thom Yorke"]
+  },
+  {
+    "title": "Off With Her Head",
+    "albums": ["Scripted"],
+    "artists": ["Icon For Hire"]
+  },
+  {
+    "title": "Простые слова",
+    "albums": ["Простые слова"],
+    "artists": ["Arrival"]
+  },
+  {
+    "title": "Hey Now Now",
+    "albums": ["The Cloud Room"],
+    "artists": ["The Cloud Room"]
+  },
+  {
+    "title": "Jump!",
+    "albums": ["Classics, Vol. 1"],
+    "artists": ["Thomas Bergersen"]
+  },
+  {
+    "title": "Shalott",
+    "albums": ["Opheliac (The Deluxe Edition)"],
+    "artists": ["Emilie Autumn"]
+  },
+  { "title": "Mlàdek", "albums": ["Empros"], "artists": ["Russian Circles"] },
+  {
+    "title": "The Girl and the Robot",
+    "albums": ["Junior"],
+    "artists": ["Röyksopp"]
+  },
+  { "title": "Less Unless", "albums": ["Rules"], "artists": ["CIVIL CIVIC"] },
+  {
+    "title": "In the House - In a Heartbeat",
+    "albums": ["In the House - In a Heartbeat"],
+    "artists": ["John Murphy"]
+  },
+  {
+    "title": "Homes - ...Samara to Belfast",
+    "albums": ["Gangs"],
+    "artists": ["And So I Watch You from Afar"]
+  },
+  {
+    "title": "Как стрижи",
+    "albums": ["Ag"],
+    "artists": ["Серебряная свадьба"]
+  },
+  {
+    "title": "The Wayfarer",
+    "albums": ["Century Child"],
+    "artists": ["Nightwish"]
+  },
+  { "title": "Королевна", "albums": ["The Best"], "artists": ["Мельница"] },
+  {
+    "title": "inner universe",
+    "albums": ["攻殻機動隊 STAND ALONE COMPLEX　O.S.T.＋"],
+    "artists": ["Origa"]
+  },
+  {
+    "title": "Bullug Gegbug Ibgabiug Gixcure Dagabciea Fuic",
+    "albums": ["Bullug Gegbug Ibgabiug Gixcure Dagabciea Fuic"],
+    "artists": ["Keygen Church"]
+  },
+  { "title": "Москва", "albums": ["Москва"], "artists": ["Slot"] },
+  {
+    "title": "Come Near Me",
+    "albums": ["The Spoils"],
+    "artists": ["Massive Attack"]
+  },
+  {
+    "title": "A Good Song Never Dies",
+    "albums": ["The Original Motion Picture Soundtrack"],
+    "artists": ["Saint Motel"]
+  },
+  {
+    "title": "Catch the Moment",
+    "albums": ["Dream Maker"],
+    "artists": ["Ships Fly Up"]
+  },
+  {
+    "title": "What We Fight For",
+    "albums": ["Furi (Original Game Soundtrack)"],
+    "artists": ["Carpenter Brut"]
+  },
+  {
+    "title": "Death Is the Road to Awe (feat. Kronos Quartet)",
+    "albums": ["The Fountain OST"],
+    "artists": ["Clint Mansell"]
+  },
+  {
+    "title": "In the Rowans",
+    "albums": ["Balmorhea"],
+    "artists": ["Balmorhea"]
+  },
+  {
+    "title": "Kanashi Shōjo",
+    "albums": ["ググル馬場の歌"],
+    "artists": ["alicirno"]
+  },
+  {
+    "title": "Конченый",
+    "albums": ["Ядро"],
+    "artists": ["ЛЮБИМЫЕ ПЕСНИ НАСТИНОГО КОТА"]
+  },
+  { "title": "These Days", "albums": ["Chelsea Girl"], "artists": ["Nico"] },
+  {
+    "title": "On the Bottom",
+    "albums": ["A Place to Drown the Dreams"],
+    "artists": ["Fraunhofer Diffraction"]
+  },
+  {
+    "title": "Ulysses Gazer",
+    "albums": ["Seven Idiots"],
+    "artists": ["World's End Girlfriend"]
+  },
+  {
+    "title": "Valentine",
+    "albums": ["Neverworld's End (Deluxe Edition)"],
+    "artists": ["Xandria"]
+  },
+  {
+    "title": "Maniac - Live",
+    "albums": ["CARPENTERBRUTLIVE"],
+    "artists": ["Carpenter Brut"]
+  },
+  { "title": "988", "albums": ["988"], "artists": ["Сруб"] },
+  {
+    "title": "I'm Scum",
+    "albums": ["Joy as an Act of Resistance."],
+    "artists": ["IDLES"]
+  },
+  { "title": "Maniac", "albums": ["Maniac"], "artists": ["Carpenter Brut"] },
+  {
+    "title": "Coultergeist",
+    "albums": ["Highland Cathedral"],
+    "artists": ["Phil Coulter"]
+  },
+  {
+    "title": "Рагнарёк",
+    "albums": ["Рагнарёк"],
+    "artists": ["Михаил Елизаров"]
+  },
+  {
+    "title": "Carmina Burana",
+    "albums": ["Night Castle"],
+    "artists": ["Trans-Siberian Orchestra"]
+  },
+  {
+    "title": "Королевна",
+    "albums": ["Леопард в городе"],
+    "artists": ["Хелависа"]
+  },
+  { "title": "Satellite", "albums": ["Endgame"], "artists": ["Rise Against"] },
+  {
+    "title": "Exit Strategy Of A Wrecking Ball",
+    "albums": ["Pandora's Piñata"],
+    "artists": ["Diablo Swing Orchestra"]
+  },
+  {
+    "title": "Высшая математика самоуничтожения",
+    "albums": ["Вальсирующие во тьме"],
+    "artists": ["МРФ"]
+  },
+  {
+    "title": "Auntie's Harp",
+    "albums": ["Late Night Tales: The Cinematic Orchestra"],
+    "artists": ["Flying Lotus"]
+  },
+  {
+    "title": "Sticks and Stones",
+    "albums": ["Thirteen Tales Of Love And Revenge"],
+    "artists": ["The Pierces"]
+  },
+  {
+    "title": "Последний Воин Мёртвой Земли",
+    "albums": ["Последний Воин Мёртвой Земли"],
+    "artists": ["Оргия Праведников"]
+  },
+  {
+    "title": "Painted By Numbers",
+    "albums": ["Dying to Say This to You"],
+    "artists": ["The Sounds"]
+  },
+  {
+    "title": "The Brutal Angel's Thesis",
+    "albums": ["The Brutal Angel's Thesis"],
+    "artists": ["Human Instrumentality Project"]
+  },
+  {
+    "title": "Not Fair",
+    "albums": ["It's Not Me, It's You"],
+    "artists": ["Lily Allen"]
+  },
+  {
+    "title": "Cigarette Duet",
+    "albums": ["Lil' Golden Book"],
+    "artists": ["Princess Chelsea"]
+  },
+  {
+    "title": "Shut Me Up",
+    "albums": ["You'll Rebel To Anything (Expanded and Remastered 2008)"],
+    "artists": ["Mindless Self Indulgence"]
+  },
+  {
+    "title": "Hands In The Sky (Big Shot)",
+    "albums": ["Prepare To Be Wrong"],
+    "artists": ["Straylight Run"]
+  },
+  {
+    "title": "Black and White",
+    "albums": ["Skin and Bones"],
+    "artists": ["Lyriel"]
+  },
+  {
+    "title": "Röyksopp Forever",
+    "albums": ["Junior"],
+    "artists": ["Röyksopp"]
+  },
+  {
+    "title": "Ignorance",
+    "albums": ["Brand New Eyes"],
+    "artists": ["Paramore"]
+  },
+  { "title": "Excess", "albums": ["Excess"], "artists": ["Perturbator"] },
+  {
+    "title": "Warrior Concerto",
+    "albums": ["We Can Make the World Stop - EP"],
+    "artists": ["The Glitch Mob"]
+  },
+  { "title": "Bitch", "albums": ["Collxtion I"], "artists": ["Allie X"] },
+  { "title": "MISOGI island", "albums": ["REBURN"], "artists": ["LADYBABY"] },
+  { "title": "Ag", "albums": ["Ag"], "artists": ["Серебряная свадьба"] },
+  {
+    "title": "Dead Editors",
+    "albums": ["Ritual Spirit"],
+    "artists": ["Massive Attack"]
+  },
+  { "title": "Заряженный", "albums": ["MYЗЛО"], "artists": ["GSPD"] },
+  {
+    "title": "Les enfants du paradis",
+    "albums": ["Seven Idiots"],
+    "artists": ["World's End Girlfriend"]
+  },
+  {
+    "title": "Devil in a Midnight Mass",
+    "albums": ["Billy Talent II"],
+    "artists": ["Billy Talent"]
+  },
+  {
+    "title": "Я буду твоим солнцем",
+    "albums": ["Vol. 1 ‍"],
+    "artists": ["Мёртвые Осы"]
+  },
+  { "title": "Snake Eyes", "albums": ["Snake Eyes"], "artists": ["Feint"] },
+  { "title": "Frostnight", "albums": ["Seducia"], "artists": ["Silentium"] },
+  {
+    "title": "Я хочу чтоб ты стреляла по своим",
+    "albums": ["Иди и смотри"],
+    "artists": ["DenDerty"]
+  },
+  {
+    "title": "A Quiet Life",
+    "albums": ["Still Smiling"],
+    "artists": ["Teho Teardo"]
+  },
+  {
+    "title": "Map Of The World",
+    "albums": ["Soft Power"],
+    "artists": ["Chilly Gonzales"]
+  },
+  {
+    "title": "Lo Air",
+    "albums": ["Dempsey"],
+    "artists": ["Dead Poet Society"]
+  },
+  {
+    "title": "I Know Where You Sleep",
+    "albums": ["Opheliac (The Deluxe Edition)"],
+    "artists": ["Emilie Autumn"]
+  },
+  {
+    "title": "Psyche",
+    "albums": ["Heligoland"],
+    "artists": ["Massive Attack"]
+  },
+  {
+    "title": "Chromatic Chimera",
+    "albums": ["WE, Invaders"],
+    "artists": ["Unexpect"]
+  },
+  { "title": "Who", "albums": ["Who Else"], "artists": ["Modeselektor"] },
+  {
+    "title": "Turn It Up",
+    "albums": ["Get Rid!"],
+    "artists": ["Robots In Disguise"]
+  },
+  { "title": "Моя любовь", "albums": ["Забываю"], "artists": ["Глава II"] },
+  { "title": "Искусство", "albums": ["Плёнка"], "artists": ["ИСПАНСКИЙ СТЫД"] },
+  {
+    "title": "Megalomaniac Trees",
+    "albums": ["In A Flesh Aquarium"],
+    "artists": ["Unexpect"]
+  },
+  {
+    "title": "The Winner Is",
+    "albums": ["Little Miss Sunshine (Original Motion Picture Soundtrack)"],
+    "artists": ["DeVotchKa"]
+  },
+  {
+    "title": "Dirty Paws",
+    "albums": ["My Head Is An Animal"],
+    "artists": ["Of Monsters and Men"]
+  },
+  { "title": "7C0", "albums": ["Ginkgo"], "artists": ["Ruby My Dear"] },
+  {
+    "title": "Honeythief",
+    "albums": ["Wholeness & Separation"],
+    "artists": ["Halou"]
+  },
+  {
+    "title": "Roll Up",
+    "albums": ["Everybody Wants"],
+    "artists": ["The Struts"]
+  },
+  {
+    "title": "Keep You On My Side",
+    "albums": ["Every Open Eye"],
+    "artists": ["CHVRCHES"]
+  },
+  {
+    "title": "Can You Feel My Heart",
+    "albums": ["Sempiternal"],
+    "artists": ["Bring Me The Horizon"]
+  },
+  {
+    "title": "Windmills Of Your Mind",
+    "albums": ["Entanglements"],
+    "artists": ["Parenthetical Girls"]
+  },
+  { "title": "7C0", "albums": ["Ginkgo"], "artists": ["Ruby My Dear"] }
+]
